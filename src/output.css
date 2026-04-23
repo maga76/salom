@@ -334,6 +334,9 @@
   .w-\[1280px\] {
     width: 1280px;
   }
+  .max-w-\[1200p\] {
+    max-width: 1200p;
+  }
   .max-w-\[1200px\] {
     max-width: 1200px;
   }
