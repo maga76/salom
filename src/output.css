@@ -235,11 +235,17 @@
   .mt-\[200px\] {
     margin-top: 200px;
   }
+  .mb-\[50px\] {
+    margin-bottom: 50px;
+  }
   .ml-\[20px\] {
     margin-left: 20px;
   }
   .ml-\[25px\] {
     margin-left: 25px;
+  }
+  .ml-\[50px\] {
+    margin-left: 50px;
   }
   .ml-\[76px\] {
     margin-left: 76px;
@@ -292,6 +298,12 @@
   .w-\[200px\] {
     width: 200px;
   }
+  .w-\[250px\] {
+    width: 250px;
+  }
+  .w-\[264px\] {
+    width: 264px;
+  }
   .w-\[386\] {
     width: 386;
   }
@@ -334,6 +346,9 @@
   .w-\[1280px\] {
     width: 1280px;
   }
+  .w-full {
+    width: 100%;
+  }
   .max-w-\[1200p\] {
     max-width: 1200p;
   }
@@ -348,6 +363,9 @@
   }
   .flex-col {
     flex-direction: column;
+  }
+  .flex-row {
+    flex-direction: row;
   }
   .flex-wrap {
     flex-wrap: wrap;
@@ -394,11 +412,20 @@
   .gap-\[25px\] {
     gap: 25px;
   }
+  .gap-\[30px\] {
+    gap: 30px;
+  }
+  .gap-\[40px\] {
+    gap: 40px;
+  }
   .gap-\[50px\] {
     gap: 50px;
   }
   .gap-\[70px\] {
     gap: 70px;
+  }
+  .gap-\[100px\] {
+    gap: 100px;
   }
   .rounded {
     border-radius: 0.25rem;
@@ -481,6 +508,9 @@
   }
   .p-\[px_20px\] {
     padding: px 20px;
+  }
+  .pt-\[50px\] {
+    padding-top: 50px;
   }
   .pt-\[51px\] {
     padding-top: 51px;
